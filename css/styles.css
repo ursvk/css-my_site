@@ -1,15 +1,21 @@
-body{
-    background-color: teal;
+body {
+    background-color:whitesmoke;
     font-family: 'Open Sans', sans-serif;
-    color: whitesmoke;
+    color:rgb(2, 105, 105);
 }
-h1{
+
+h1 {
     font-size: 6em;
-  }
-h3{
+}
+
+h3 {
     font-size: 3em;
 }
-p{
+
+p {
     font-size: 1em;
 }
-                                                
+
+span:hover {
+    color: rgb(180, 180, 180);
+}
