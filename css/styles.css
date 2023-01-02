@@ -1,7 +1,7 @@
 body {
-    background-color:whitesmoke;
+    background-color: #fcd9d9;
     font-family: 'Open Sans', sans-serif;
-    color:teal;
+    color: #7681b3;
 }
 
 h1 {
@@ -14,8 +14,4 @@ h3 {
 
 p {
     font-size: 1em;
-}
-
-span:hover {
-    color: rgb(180, 180, 180);
 }
