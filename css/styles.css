@@ -1,7 +1,9 @@
 body {
     background-color: #fcd9d9;
-    font-family: 'Open Sans', sans-serif;
     color: #7681b3;
+    font-family: 'Open Sans', sans-serif;
+    margin: 1%;
+    
 }
 
 h1 {
