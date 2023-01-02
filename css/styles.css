@@ -1,20 +1,25 @@
 body {
     background-color: #ffffff;
-    color: white;
+
     font-family: 'Open Sans', sans-serif;
     margin: 0%;
 }
 
 h1 {
+    background-color: #5d2bd3;
+    color: #ffffff;
     font-size: 6em;
-    margin-left: 6%;
+    margin-left: 0%;
     margin-top: 0%;
-    margin-right: 6%;
+    margin-right: 0%;
+    padding-left: 6.5%;
     margin-bottom: 0%;
+    padding-block-end: 10px;
 }
 
 h4.top {
     background-color: #4d24ac;
+    color: #ffffff;
     font-size: 3em;
     margin-left: 0%;
     margin-top: 0%;
@@ -22,7 +27,8 @@ h4.top {
     margin-bottom: 0%;
     padding-left: 7%;
 }
-p {
+
+p.body {
     color: #595959;
     font-size: 1em;
     margin-left: 8%;
@@ -30,8 +36,9 @@ p {
     margin-bottom: 0%;
     margin-right: 6%;
 }
-.first_cntainer{
-    background-color: #5d2bd3;
+
+.first_cntainer {
+
     height: 100%;
     width: 100%;
 }
