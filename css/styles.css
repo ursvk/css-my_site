@@ -59,6 +59,7 @@ p.body {
     width: 300px;
     margin-left: 8%;
     filter: drop-shadow(2px 5px 10px black);
+    position:absolute;
 }
 a:hover{
    opacity: 75%;; 
