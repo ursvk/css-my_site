@@ -1,8 +1,7 @@
 body {
-    background-color: #ffffff;
-
     font-family: 'Open Sans', sans-serif;
-    margin: 0%;
+    margin-left: 0%;
+    margin-top: 0%;
 }
 
 h1 {
@@ -10,44 +9,57 @@ h1 {
     color: #ffffff;
     font-size: 6em;
     margin-left: 0%;
-    margin-top: 100%;
-    margin-right: 5%;
+    margin-top: 0%;
+    margin-right: 0%;
     padding-left: 6.5%;
     margin-bottom: 0%;
-    padding-right: 10%;
-    display: inline;
-   border-top-right-radius: 60px;
-   border-bottom-right-radius: 60px;
+    padding-right: 1%;
+    display: block;
+    position: relative;
 }
 
-h4.top {
-    background-color:goldenrod;
-    color: #ffffff;
+h4.topper {
+    background-color: #b9b2c9;
+    color: #474747;
     font-size: 3em;
     margin-left: 0%;
     margin-top: 0%;
     margin-right: 0%;
     margin-bottom: 0%;
     padding-left: 7%;
+    padding-right: 0%;
+    display: flex;
 }
 
 p.body {
     color: #595959;
-    font-size: 1em;
-    margin-left: 8%;
-    margin-top: 1%;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-left: 12%;
+    margin-top: 0%;
     margin-bottom: 0%;
     margin-right: 6%;
+    display: inline;
+
+
 }
-.banner{
-    border-left-width: 10px;
-    width: 650px;
-    height: auto;
-    border-top-width: 0px;
-    border-bottom-width: 0px;
-    border-right-width: 0px;
+
+.tajmahal {
+
+    border-radius: 15px;
+    height: 250px;
+    width: 300px;
+    margin-left: 8%;
+    filter: drop-shadow(2px 5px 10px black);
 }
-.empty{
-    background-color: goldenrod;
-    font-size: 3em;
+
+.mahabalipuram {
+    border-radius: 15px;
+    height: 250px;
+    width: 300px;
+    margin-left: 8%;
+    filter: drop-shadow(2px 5px 10px black);
+}
+a:hover{
+   opacity: 75%;; 
 }
