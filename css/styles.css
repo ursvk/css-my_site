@@ -8,10 +8,11 @@ div.head {
     background-color: #5d2bd3;
 }
 
-img.logo {
+.brand {
     padding-left: 2%;
     height: auto;
     width: 100px;
+    
 }
 
 h1 {
