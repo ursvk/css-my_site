@@ -4,18 +4,27 @@ body {
     margin-top: 0%;
 }
 
+div.head {
+    background-color: #5d2bd3;
+}
+
+img.logo {
+    padding-left: 2%;
+    height: auto;
+    width: 100px;
+}
+
 h1 {
     background-color: #5d2bd3;
     color: #ffffff;
-    font-size: 6em;
+    font-size: 5.5em;
     margin-left: 0%;
     margin-top: 0%;
     margin-right: 0%;
-    padding-left: 6.5%;
-    margin-bottom: 0%;
+    padding-left: 0.5%;
+    margin-bottom: 3%;
     padding-right: 1%;
-    display: block;
-    position: relative;
+    display: inline
 }
 
 h4.topper {
@@ -28,7 +37,7 @@ h4.topper {
     margin-bottom: 0%;
     padding-left: 7%;
     padding-right: 0%;
-    display: flex;
+    display: block;
 }
 
 p.body {
@@ -59,8 +68,10 @@ p.body {
     width: 300px;
     margin-left: 8%;
     filter: drop-shadow(2px 5px 10px black);
-    position:absolute;
+    position: absolute;
 }
-a:hover{
-   opacity: 75%;; 
+
+a:hover {
+    opacity: 75%;
+    ;
 }
