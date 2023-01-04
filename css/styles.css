@@ -39,10 +39,10 @@ sub {
     display: inline;
 }
 
-h4.topper {
+h5.topper {
     background-color: #BEAFC2;
     color: #281C2D;
-    font-size: 3em;
+    font-size: 1.5em;
     margin-left: 0%;
     margin-top: 0%;
     margin-right: 0%;
@@ -86,7 +86,7 @@ p.body {
     background-color: #EFDCF9;
     padding-top: 2%;
     margin-left: 2%;
-    margin-right: 78%;;
+    margin-right: 2%;;
     padding-bottom: 2%;
     filter:drop-shadow(2px 5px 10px grey)
     
