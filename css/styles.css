@@ -5,22 +5,23 @@ body {
 }
 
 div.head {
-    background-color: #474747;
+    background-color: #8155BA;
 }
 
 .brand {
     padding-left: 2%;
-    padding-top: 2%;
+    padding-top: 0%;
+    margin-top: 1%;
     padding-bottom: 0%;
     height: auto;
     width: 100px;
     display: inline;
-    
-    
+
+
 }
 
 h1 {
-    background-color: #474747;
+    background-color: #8155BA;
     color: #ffffff;
     font-size: 5.5em;
     margin-left: 0%;
@@ -32,9 +33,15 @@ h1 {
     display: inline
 }
 
+sub {
+    color: #ffffff;
+    font-size: 0.5em;
+    display: inline;
+}
+
 h4.topper {
-    background-color: #c9c7ca;
-    color: #474747;
+    background-color: #BEAFC2;
+    color: #281C2D;
     font-size: 3em;
     margin-left: 0%;
     margin-top: 0%;
@@ -46,7 +53,7 @@ h4.topper {
 }
 
 p.body {
-    color: #595959;
+    color: #281C2D;
     font-size: 1.5em;
     font-weight: bold;
     margin-left: 12%;
@@ -64,16 +71,25 @@ p.body {
     height: 250px;
     width: 300px;
     margin-left: 8%;
-    filter: drop-shadow(2px 5px 10px black);
+    filter: drop-shadow(2px 5px 10px #695E93);
 }
-
 .mahabalipuram {
+
     border-radius: 15px;
     height: 250px;
     width: 300px;
     margin-left: 8%;
-    filter: drop-shadow(2px 5px 10px black);
-    position: absolute;
+    filter: drop-shadow(2px 5px 10px #695E93);
+}
+
+.form {
+    background-color: #EFDCF9;
+    padding-top: 2%;
+    margin-left: 2%;
+    margin-right: 78%;;
+    padding-bottom: 2%;
+    filter:drop-shadow(2px 5px 10px grey)
+    
 }
 
 a:hover {
