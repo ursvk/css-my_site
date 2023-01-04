@@ -5,18 +5,22 @@ body {
 }
 
 div.head {
-    background-color: #5d2bd3;
+    background-color: #474747;
 }
 
 .brand {
     padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 0%;
     height: auto;
     width: 100px;
+    display: inline;
+    
     
 }
 
 h1 {
-    background-color: #5d2bd3;
+    background-color: #474747;
     color: #ffffff;
     font-size: 5.5em;
     margin-left: 0%;
@@ -29,7 +33,7 @@ h1 {
 }
 
 h4.topper {
-    background-color: #b9b2c9;
+    background-color: #c9c7ca;
     color: #474747;
     font-size: 3em;
     margin-left: 0%;
